@@ -1,1 +1,10 @@
+#Cleaned and Error-Checked Data
+
+This folder contains the cleaned version of the raw dataset, including:
+
+- Missing value checks
+- Future date detection
+- TRIM formatting
+
+Useful for analysts and BI tools.
 
