@@ -1,1 +1,6 @@
+# 🗂️ Raw Data
+
+This folder contains the original sales dataset used for analysis.
+
+- `Sales_Performance_Dataset.xlsx`: Synthetic retail sales data including regions, products, salespeople, and dates.
 
